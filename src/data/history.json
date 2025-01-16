@@ -1,0 +1,11 @@
+[
+  {
+    "role": "System Engineer",
+    "organisation": "Infosys",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on creating a responsive website using React JS and Redux", "Reduced load times by 50%"],
+    "imageSrc": "history/infosys.png"
+  }
+  
+]
